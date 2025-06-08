@@ -17,7 +17,7 @@ $('document').ready(function () {
                 <div class="card product-card">
                     <div class="card-body">
                         <div class="img-box">
-                            <img src="../img/${item.product_img}" alt="image4" class="img-fluid">
+                            <img src="./img/${item.product_img}" alt="image4" class="img-fluid">
                         </div>
                         <ul>
                             <li>${item.product_name}</li>
