@@ -1,0 +1,153 @@
+{
+    "deals_of_the_day": [
+        {
+            "id": 1,
+            "product_name": "Beach Shirts",
+            "price": "99",
+            "rating": "11",
+            "product_img": "orangers.png",
+            "qty": "2",
+            "saving": "15%",
+            "selling_price": "90",
+            "color": "red",
+            "size": "XL"
+        },
+        {
+            "id": 2,
+            "product_name": "Denim Blue Jeans",
+            "price": "199.00",
+            "rating": "18",
+            "product_img": "orangers.png",
+            "qty": "8",
+            "saving": "15%",
+            "selling_price": "90",
+            "color": "blue",
+            "size": "XL"
+        },
+        {
+            "id": 3,
+            "product_name": "Yellow Casual Sweater",
+            "price": "159.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "110",
+            "color": "yellow",
+            "size": "XL"
+        },
+        {
+            "id": 4,
+            "product_name": "Check Black and White Sweater",
+            "price": "180.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "150",
+            "color": "black and white",
+            "size": "XL"
+        },
+        {
+            "id": 5,
+            "product_name": "Silver High Neck Sweater",
+            "price": "199.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "140",
+            "color": "silver",
+            "size": "XL"
+        },
+        {
+            "id": 6,
+            "product_name": "Brown Sweat Shirt",
+            "price": "199.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "140",
+            "color": "silver",
+            "size": "XL"
+        }
+      
+    ]
+    ,
+    "seals_of_the_day": [
+        {
+            "id": 1,
+            "product_name": "Beach Shirts",
+            "price": "99",
+            "rating": "11",
+            "product_img": "orangers.png",
+            "qty": "2",
+            "saving": "15%",
+            "selling_price": "90",
+            "color": "red",
+            "size": "XL"
+        },
+        {
+            "id": 2,
+            "product_name": "Denim Blue Jeans",
+            "price": "199.00",
+            "rating": "18",
+            "product_img": "orangers.png",
+            "qty": "8",
+            "saving": "15%",
+            "selling_price": "90",
+            "color": "blue",
+            "size": "XL"
+        },
+        {
+            "id": 3,
+            "product_name": "Yellow Casual Sweater",
+            "price": "159.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "110",
+            "color": "yellow",
+            "size": "XL"
+        },
+        {
+            "id": 4,
+            "product_name": "Check Black and White Sweater",
+            "price": "180.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "150",
+            "color": "black and white",
+            "size": "XL"
+        },
+        {
+            "id": 5,
+            "product_name": "Silver High Neck Sweater",
+            "price": "199.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "140",
+            "color": "silver",
+            "size": "XL"
+        },
+        {
+            "id": 6,
+            "product_name": "Brown Sweat Shirt",
+            "price": "199.00",
+            "rating": "20",
+            "product_img": "orangers.png",
+            "qty": "18",
+            "saving": "15%",
+            "selling_price": "140",
+            "color": "silver",
+            "size": "XL"
+        }
+      
+    ]
+}

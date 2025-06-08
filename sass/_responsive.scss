@@ -1,0 +1,352 @@
+@media (max-width:1399.5px) {
+    .hero-section {
+        .hero-card {
+            min-height: 190px;
+            background-size: contain;
+
+            .hero-card-text {
+                padding-top: 9%;
+
+                ul {
+                    li:nth-child(1) {
+                        font-size: 11px;
+                    }
+
+                    li:nth-child(2) {
+                        font-size: 17px;
+                    }
+
+                    li {
+                        a {
+                            font-size: 14px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .hero-carousel {
+            .slider-text {
+                ul {
+                    li:nth-child(1) {
+                        font-size: 20px;
+                    }
+
+                    li:nth-child(2) h4 {
+                        font-size: 40px
+                    }
+
+                    li:nth-child(3) {
+                        font-size: 15px;
+                    }
+
+                    li:nth-child(4) {
+                        font-size: 13px;
+                    }
+                }
+            }
+        }
+    }
+
+    .delas_of_the_day {
+        .product-card {
+
+            // min-height: 502px;
+            .img-box {
+                min-height: 300px;
+
+                img {
+                    object-fit: none;
+                }
+            }
+        }
+    }
+
+    .mens-fashion .nav {
+        padding: 0.4rem 0;
+    }
+}
+
+
+@media (max-width:1199.5px) {
+    .hero-section {
+        .hero-card {
+            min-height: 156px;
+            background-size: contain;
+        }
+    }
+
+    .delivery {
+        .container {
+            .row {
+                .card {
+                    padding-left: 0;
+
+                    h5 {
+                        font-size: 15px;
+                    }
+
+                    p {
+                        font-size: 11px;
+                    }
+
+                    img {
+                        width: 40px;
+                    }
+                }
+            }
+        }
+    }
+
+    .blackFriday {
+        .friday {
+            h4 {
+                font-size: 20px;
+            }
+
+        }
+
+        .slope {
+            width: 74%;
+            border-radius: 0px 5px 5px 0px;
+        }
+    }
+
+    .delas_of_the_day {
+
+        .product-card {
+            max-width: auto;
+
+            .img-box {
+                min-height: 250px;
+            }
+
+            ul {
+                li:nth-child(1) {
+                    text-wrap: nowrap;
+                }
+            }
+        }
+    }
+
+
+    .mens-fashion {
+        .nav {
+            padding: 1.4rem 0;
+        }
+    }
+}
+
+@media(max-width:991.5px) {
+    .hero-section {
+        .col-md-12.col-lg-4 {
+            margin-top: 1rem;
+            display: flex;
+            justify-content: space-between;
+
+            .hero-card {
+                width: 49%;
+                margin-bottom: 0;
+            }
+        }
+    }
+
+    .delivery {
+        .card {
+            border-radius: 0;
+            border: none;
+
+            &::after {
+                display: none;
+            }
+        }
+    }
+
+    .category {
+        .col-md-4 {
+            margin-top: 1rem;
+        }
+    }
+
+    .blackFriday {
+        .friday {
+            h4 {
+                font-size: 14px;
+            }
+        }
+
+        .slope {
+            p {
+                font-size: 14px;
+            }
+
+            .btn-shop {
+                font-size: 12px;
+            }
+        }
+    }
+
+    .mens-fashion {
+        h4 {
+            font-size: 26px;
+        }
+    }
+
+    .ads {
+        .col-lg-4 {
+            margin-top: 1rem;
+        }
+    }
+
+    .banner {
+        .col-lg-6 {
+            margin-top: 1rem;
+        }
+    }
+
+    .blackFriday {
+        .slope {
+            width: 65%;
+        }
+    }
+
+    .delas_of_the_day {
+        .product-card {
+            .img-box {
+                min-height: 275px;
+            }
+        }
+    }
+
+
+    .mens-fashion {
+        .nav {
+            padding: 2.2rem 0;
+        }
+    }
+
+}
+
+
+@media (max-width:767.5px) {
+    .hero-section {
+        .hero-carousel {
+            .slider-text {
+                top: 15%;
+            }
+        }
+    }
+}
+
+@media (max-width:576.5px) {
+
+
+
+    .delivery {
+        .container {
+            .row {
+                .card {
+                    &:nth-child(2) {
+                        img {
+                            margin-left: 1.5rem;
+                        }
+
+                        .text-area {
+                            margin-left: 4rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .delas_of_the_day {
+        .deals {
+            .card {
+                .img-box {
+                    min-height: 300px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width:526.5px) {
+    .hero-section {
+        .hero-carousel {
+            .slider-text {
+                max-width: 250px;
+
+                ul li:nth-child(2) h4 {
+                    font-size: 30px;
+                }
+            }
+        }
+    }
+
+    .btn-pink {
+        padding: 0.3rem .5rem;
+        font-size: 10px;
+    }
+}
+
+@media (max-width:450px) {
+    .hero-section {
+        .hero-carousel {
+            .slider-text {
+                max-width: 200px;
+                left: 0;
+
+                ul {
+                    li {
+                        &:nth-child(1) {
+                            font-size: 14px;
+                        }
+
+                        &:nth-child(3) {
+                            font-size: 10px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .blackFriday .friday h4 {
+        font-size: 13px;
+        padding-left: 12px;
+    }
+}
+
+@media (max-width:414px) {
+    .topbar {
+        .container {
+            font-size: 11px;
+
+            .ri-mail-line {
+                margin-left: 0.5rem;
+            }
+        }
+    }
+
+    .hero-section {
+        .hero-carousel {
+            .slider-text {
+                top: 6%;
+
+                ul li:nth-child(2) h4 {
+                    font-size: 25px;
+                    margin-bottom: 0;
+                }
+            }
+        }
+
+
+    }
+
+
+    .delas_of_the_day .deals .card .img-box {
+        margin: 0 auto;
+        text-align: center;
+    }
+}
