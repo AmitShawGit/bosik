@@ -173,6 +173,9 @@ body {
   background-color: #f1e9e4;
 }
 
+.delivery .container .card{
+border-color: transparent;
+}
 .delivery .container .row {
   padding: 0 0.7rem;
 }
@@ -182,8 +185,9 @@ body {
   align-items: center;
   padding: 1rem;
   justify-content: space-around;
-  border: none;
+  border-color: none !important;
   position: relative;
+ --bs-card-border-color:transparent;
 }
 .delivery .container .row .card h5 {
   margin-bottom: 0;

@@ -150,11 +150,12 @@ body {
             display: none;
         }
 
-        .owl-dots{
+        .owl-dots {
             position: absolute;
             bottom: 10px;
             left: 50%;
-            .owl-dot.active{
+
+            .owl-dot.active {
                 background: $red;
                 /* color: red; */
                 border: 1px solid $red;
@@ -163,7 +164,8 @@ body {
                 border-radius: 5px;
                 margin-right: 0.3rem;
             }
-            .owl-dot{
+
+            .owl-dot {
                 background: $silver;
                 /* color: red; */
                 border: 1px solid $silver;
@@ -273,7 +275,7 @@ body {
 
 
 .category {
-  
+
 
     .card {
         padding: 0.5rem;
@@ -307,7 +309,7 @@ body {
 
 
 .blackFriday {
-  
+
 
     .container {
         .card {
@@ -383,7 +385,7 @@ body {
 
 
 .delas_of_the_day {
-  
+
 
     .deals {
         .card {
@@ -518,7 +520,7 @@ body {
 
 .mens-fashion {
     position: relative;
-   
+
 
     .nav {
         padding: 1.5rem 0;
@@ -796,15 +798,19 @@ footer {
 
 /*================================================  Your Cart   ================================================================ */
 .cart_page {
-padding: 3rem 0;
+    padding: 3rem 0;
+
     .table-responsive {
         .table {
             background: transparent;
             padding: 1rem;
             --bs-table-bg: transparent;
-            td{
+
+            td {
                 place-content: center;
             }
+
+
         }
     }
 
@@ -819,31 +825,39 @@ padding: 3rem 0;
         font-size: 12px;
         margin: 0.2rem;
 
-        &:hover{
+        &:hover {
             background-color: $black;
         }
     }
 
-    .prod_img{
+    .prod_img {
         width: 50px;
     }
 
 
-    .subtotal{
+    .subtotal {
         text-align: center;
-        h6{
+
+        h6 {
             font-size: 22px;
         }
-        p{
+
+        p {
             font-size: 12px;
         }
-        .btn-red{
+
+        .btn-red {
             width: fit-content;
         }
-        a{
+
+        a {
             font-size: 12px;
         }
     }
+}
+
+.ri-delete-bin-line {
+    color: red;
 }
 
 .btn-blue {

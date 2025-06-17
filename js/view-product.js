@@ -86,7 +86,8 @@ $(document).on('click', '.buy_now', function () {
         existingCart.push(parsedData);
         localStorage.setItem("addTocart", JSON.stringify(existingCart));
 
-        window.location.href = "https://amitshawgit.github.io/bosik/cart.html";
+        // window.location.href = "https://amitshawgit.github.io/bosik/cart.html";
+        window.location.href = "/cart.html";
     } catch (e) {
         console.error("Failed to parse product data (buy_now):", e);
     }
